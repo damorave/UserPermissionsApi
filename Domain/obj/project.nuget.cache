@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+hjvLotnaNQ5MC40nxynbUq6/JxTHK02RJRf1CEuun1+5VHAuG9mKSVo2/syjlKXf+0aVEV1vmWJhwCTtO+IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mora803637\\OneDrive - SIIGO SAS\\Documentos\\Personal\\Desarrollo\\Prueba T\\UserPermissionsApi\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mora803637\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\mora803637\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\mora803637\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\mora803637\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
