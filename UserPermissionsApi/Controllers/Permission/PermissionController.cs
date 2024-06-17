@@ -78,8 +78,6 @@ namespace UserPermissionsApi.Controllers.Permission
 		/// <summary>
 		/// Método encargado de actualizar un permiso
 		/// </summary>
-		/// <param name="id"></param>
-		/// <param name="command"></param>
 		/// <returns></returns>
 		[HttpPut]
 		[Route("update")]
